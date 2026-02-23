@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Inon Levy 🚀
 
-<!--
-**inonl10/inonl10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Industrial Engineering & Management Student | Operations & Project Management**
 
-Here are some ideas to get you started:
+I am an operations professional focused on optimizing systems and bridging the gap between management and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Professional Experience
+* **Operations Manager (High-Tech):** Managed company eBay stores for 3 years, driving operational efficiency and sales.
+* **Public Sector Operations:** Managing local projects and workflows within a municipality for over a year.
+
+### 🎓 Education & Innovation
+* **Industrial Engineering & Management:** Diploma student specializing in process optimization.
+* **Excellence Program:** Participant in a college excellence track, currently developing a **Patent**.
+
+### 🚀 Projects
+* **SmallSteps:** A platform connecting parents with childcare solutions, currently in the venture development phase.
+* **INON-REACT:** A technical deep-dive into React and Python to better collaborate with R&D teams.
+
+---
+📫 **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/inonlevy)
